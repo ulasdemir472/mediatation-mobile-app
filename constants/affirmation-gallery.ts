@@ -140,11 +140,6 @@ const AFFIRMATION_GALLERY = [
                 image: images.relaxingRiverTwo,
             },
             {
-                id: 23,
-                text: "I am in harmony with the universal laws and trust that everything I desire is on its way to me. My energy is vibrant and magnetic, attracting abundance in all areas of my life. I believe in the power of my intentions and the certainty of their manifestation. Every day, I see evidence of my desires becoming reality.",
-                image: images.relaxingRiverThree,
-            },
-            {
                 id: 24,
                 text: "I consciously create my reality through my thoughts, feelings, and actions. I attract people and circumstances that support my growth and happiness. My positive mindset and unwavering belief in my dreams set the stage for their manifestation. I am grateful for the abundance and joy that flow into my life effortlessly.",
                 image: images.relaxingRiverFour,

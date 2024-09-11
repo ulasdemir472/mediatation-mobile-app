@@ -25,7 +25,6 @@ import oregonFour from "@/assets/affirmation-images/oregon-4.webp";
 
 import relaxingRiverOne from "@/assets/affirmation-images/relaxing-river-1.webp";
 import relaxingRiverTwo from "@/assets/affirmation-images/relaxing-river-2.webp";
-import relaxingRiverThree from "@/assets/affirmation-images/relaxing-river-3.webp";
 import relaxingRiverFour from "@/assets/affirmation-images/relaxing-river-4.webp";
 
 import tuscannyOne from "@/assets/affirmation-images/Tuscanny-1.webp";
@@ -56,7 +55,6 @@ export default {
     oregonFour,
     relaxingRiverOne,
     relaxingRiverTwo,
-    relaxingRiverThree,
     relaxingRiverFour,
     tuscannyOne,
     tuscannyTwo,
